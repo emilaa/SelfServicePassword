@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SelfServicePassword.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SelfServicePassword.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\wwwroot\\assets\\style.css",
+      "PackagePath": "staticwebassets\\assets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SelfServicePassword.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SelfServicePassword.props",
+      "PackagePath": "build\\SelfServicePassword.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SelfServicePassword.props",
+      "PackagePath": "buildMultiTargeting\\SelfServicePassword.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SelfServicePassword.props",
+      "PackagePath": "buildTransitive\\SelfServicePassword.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
