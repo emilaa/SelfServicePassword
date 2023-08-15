@@ -7,6 +7,15 @@ body {
     padding: 0;
 }
 
+.pass{
+    text-decoration: underline;
+    color: blue;
+}
+
+.v {
+    color: black !important;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     height: 100vh;

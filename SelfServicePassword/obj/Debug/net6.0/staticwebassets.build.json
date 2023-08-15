@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eH5pNXSTWS0oK4Cza5YXsp2q8vWjV7hSPzWGhmWuuKo=",
+  "Hash": "D0LVxXoTx3hVkdNOSuyPWTro/l33WW16X46hHwilcWo=",
   "Source": "SelfServicePassword",
   "BasePath": "_content/SelfServicePassword",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SelfServicePassword\\wwwroot",
       "Source": "SelfServicePassword",
-      "ContentRoot": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\wwwroot\\",
       "BasePath": "_content/SelfServicePassword",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SelfServicePassword.styles.css",
+      "Identity": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SelfServicePassword.styles.css",
       "SourceId": "SelfServicePassword",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SelfServicePassword",
       "RelativePath": "SelfServicePassword.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SelfServicePassword.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SelfServicePassword.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SelfServicePassword.bundle.scp.css",
+      "Identity": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SelfServicePassword.bundle.scp.css",
       "SourceId": "SelfServicePassword",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SelfServicePassword",
       "RelativePath": "SelfServicePassword.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SelfServicePassword.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SelfServicePassword.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\wwwroot\\assets\\style.css",
+      "Identity": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\wwwroot\\assets\\style.css",
       "SourceId": "SelfServicePassword",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\wwwroot\\",
       "BasePath": "_content/SelfServicePassword",
       "RelativePath": "assets/style.css",
       "AssetKind": "All",

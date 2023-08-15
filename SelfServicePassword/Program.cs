@@ -1,16 +1,8 @@
-using Microsoft.EntityFrameworkCore;
-using SelfServicePassword.DAL;
-
 var builder = WebApplication.CreateBuilder(args);
 var _configuration = builder.Configuration;
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
-builder.Services.AddDbContext<AppDbContext>(options =>
-{
-    options.UseSqlServer(_configuration.GetConnectionString("DefaultConnection"));
-});
 
 builder.Services.AddDistributedMemoryCache();
 

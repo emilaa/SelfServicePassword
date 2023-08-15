@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SelfServicePassword.bundle.scp.css",
+      "Id": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SelfServicePassword.bundle.scp.css",
       "PackagePath": "staticwebassets\\SelfServicePassword.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\SelfServicePassword\\SelfServicePassword\\wwwroot\\assets\\style.css",
+      "Id": "C:\\Users\\Emil Abdullayev\\Desktop\\SelfServicePassword\\SelfServicePassword\\wwwroot\\assets\\style.css",
       "PackagePath": "staticwebassets\\assets\\style.css"
     },
     {
